@@ -1,0 +1,369 @@
+{
+  "nav": {
+    "home": "Ana sayfa",
+    "company": "Kurumsal",
+    "about": "Hakkımızda",
+    "services": "Hizmetler",
+    "blog": "Blog",
+    "contact": "İletişim"
+  },
+  "cta": "Sipariş verin",
+  "topbar": "Kadıköy'de taze çiğ köfte, meze ve içecek.",
+  "whatsapp": {
+    "message": "Merhaba, sipariş vermek istiyorum.",
+    "online": "Çevrimiçi",
+    "help": "Yardım mı lazım?",
+    "ask": "WhatsApp'tan yazın"
+  },
+  "hero": {
+    "eyebrow": "Çiğ köfte · Meze · İçecek",
+    "title": "Taze çiğ köftenin",
+    "accent": "Kadıköy'deki adresi",
+    "text": "Çiğ köftemiz taze, baharat dengesi yerinde. Meze çeşitleri ve içeceklerle birlikte paket servis de yapıyoruz.",
+    "primary": "WhatsApp'tan sipariş verin",
+    "rating": "Google'da 4.9 puan, 66 yorum",
+    "panel": "Nasıl sipariş verilir",
+    "status": "Hazırlanıyor"
+  },
+  "highlights": [
+    "Taze çiğ köfte",
+    "Paket servis",
+    "Meze ve içecek"
+  ],
+  "metrics": [
+    {
+      "value": "4.9",
+      "label": "Google puanı"
+    },
+    {
+      "value": "66",
+      "label": "Google yorumu"
+    },
+    {
+      "value": "4",
+      "label": "Hizmet çeşidi"
+    }
+  ],
+  "services": {
+    "badge": "Neler var",
+    "title": "Sofranıza gelen",
+    "accent": "hizmetler",
+    "intro": "Çiğ köfteden mezeye, içecekten paket servise kadar ihtiyacınız olan her şey.",
+    "more": "Detaylı bilgi",
+    "all": "Tüm hizmetler",
+    "help": "Nereden başlayacağınızdan emin değil misiniz? Birlikte seçelim.",
+    "details": "detay",
+    "count": "hizmet"
+  },
+  "pillars": {
+    "badge": "İki şekilde yardımcı oluyoruz",
+    "title": "Sipariş ve",
+    "accent": "pratik bilgiler",
+    "text": "Bugün neye ihtiyacınız varsa onu seçin: WhatsApp'tan sipariş ya da kendi başınıza okuyabileceğiniz kısa yazılar.",
+    "view": "İncele",
+    "items": [
+      {
+        "title": "Hizmetlerimiz",
+        "subtitle": "Sizinle birlikte hazırlanır",
+        "tag": "Müşteriler ve misafirler",
+        "text": "Çiğ köfte, meze ve içecek; paket servisle kapınıza kadar gelir.",
+        "list": "Popüler hizmetler",
+        "bullets": [
+          "Taze çiğ köfte",
+          "Meze çeşitleri",
+          "Paket servis"
+        ],
+        "action": "Tüm hizmetler"
+      },
+      {
+        "title": "Mutfaktan notlar",
+        "subtitle": "Kendi hızınızda okuyun",
+        "tag": "Ücretsiz bilgiler",
+        "text": "Çiğ köfte, meze ve sipariş üzerine kısa ve pratik yazılar.",
+        "list": "Son yazılar",
+        "bullets": [
+          "Pratik ipuçları",
+          "Gerçek yorumlar",
+          "Düzenli güncellenir"
+        ],
+        "action": "Bloğu okuyun"
+      }
+    ]
+  },
+  "why": {
+    "badge": "Neden biz",
+    "title": "Müşteriler neden bizi seçiyor",
+    "text": "Taze malzeme, güler yüz ve özenli hazırlık.",
+    "features": [
+      {
+        "title": "Taze çiğ köfte",
+        "text": "Her sipariş taze hazırlanır, baharat dengesi yerinde."
+      },
+      {
+        "title": "Güler yüzlü hizmet",
+        "text": "İlgili ve güler yüzlü karşılama."
+      },
+      {
+        "title": "Paket servis",
+        "text": "TrendyolGo ve Yemeksepeti üzerinden sipariş."
+      },
+      {
+        "title": "Meze ve içecek",
+        "text": "Çiğ köftenin yanına meze çeşitleri ve içecek."
+      }
+    ],
+    "stats": [
+      {
+        "value": 4.9,
+        "suffix": "",
+        "label": "Puan",
+        "text": "Google'daki ortalama puanımız."
+      },
+      {
+        "value": 66,
+        "suffix": "",
+        "label": "Yorum",
+        "text": "Google'da bizi değerlendiren müşteri."
+      },
+      {
+        "value": 4,
+        "suffix": "",
+        "label": "Hizmet",
+        "text": "Çiğ köfte, meze, içecek, paket servis."
+      },
+      {
+        "value": 2,
+        "suffix": "",
+        "label": "Platform",
+        "text": "Paket servis yaptığımız uygulama."
+      }
+    ]
+  },
+  "process": {
+    "badge": "Nasıl işler",
+    "title": "Siparişten teslimata",
+    "text": "Siparişi almak, hazırlamak ve yola çıkarmak için basit bir akış.",
+    "kicker": "WhatsApp'tan sipariş",
+    "center": "Siparişinizi konuşalım",
+    "action": "Bize yazın",
+    "steps": [
+      {
+        "title": "Seçin",
+        "text": "Çiğ köfte, meze ve içeceklerden istediğinizi seçin."
+      },
+      {
+        "title": "Söyleyin",
+        "text": "Porsiyon ve adresi WhatsApp'tan bize iletin."
+      },
+      {
+        "title": "Hazırlanır",
+        "text": "Siparişiniz taze hazırlanır ve paketlenir."
+      },
+      {
+        "title": "Teslim",
+        "text": "Paket servisle adresinize ulaşır."
+      }
+    ]
+  },
+  "testimonials": {
+    "badge": "Müşteri yorumları",
+    "title": "Gerçek yorumlar.",
+    "accent": "Gerçek lezzet.",
+    "text": "Müşterilerimiz bizi nasıl anlatıyor.",
+    "see": "Google yorumlarını görün",
+    "source": "Google yorumu",
+    "verified": "Doğrulandı",
+    "prev": "Önceki yorum",
+    "next": "Sonraki yorum",
+    "items": [
+      {
+        "name": "Google kullanıcısı",
+        "role": "4 ay önce",
+        "project": "Çiğ Köfteci",
+        "quote": "Lezzeti gerçekten çok güzel, çiğköftesi taze ve baharat dengesi yerinde. Enes bey çok ilgili ve güler yüzlü. Kesinlikle tekrar geleceğim, tavsiye ederim.",
+        "rating": 5
+      },
+      {
+        "name": "Google kullanıcısı",
+        "role": "2 ay önce",
+        "project": "Çiğ Köfteci",
+        "quote": "Çiğ köftesi çok taze ve çok lezzetli gönül rahatlığıyla burayı önerebilirim\nEmeğiniz için teşekkür ederim iyi çalışmalar dilerim",
+        "rating": 5
+      },
+      {
+        "name": "Google kullanıcısı",
+        "role": "5 ay önce",
+        "project": "Çiğ Köfteci",
+        "quote": "Çiğ köfte gurmesi biri olarak bayıldimm herkese kesinlikle tavsiye ederim çok lezzetliydi elinize sağlık kolay gelsin",
+        "rating": 5
+      },
+      {
+        "name": "Google kullanıcısı",
+        "role": "3 ay önce",
+        "project": "Çiğ Köfteci",
+        "quote": "Çiğ köftesi baya lezzetli kesinlikle herkese tavsiye ederim teşekkür ederim iyi çalışmalar",
+        "rating": 5
+      },
+      {
+        "name": "Google kullanıcısı",
+        "role": "4 ay önce",
+        "project": "Çiğ Köfteci",
+        "quote": "arkadasımla yemeğe gittik tesadüfen yakınlarda olduğu için buraya girdik ilk oldu ama son olmıcak gerçekten güzeldi denenir",
+        "rating": 5
+      }
+    ]
+  },
+  "quote": {
+    "badge": "Hızlı sipariş",
+    "title": "Siparişinizi yazın",
+    "accent": "hemen hazırlayalım",
+    "text": "Birkaç ayrıntı paylaşın, size net bir sipariş özetiyle dönelim.",
+    "steps": [
+      {
+        "title": "WhatsApp'tan yanıt",
+        "text": "Mesajınızı görür, kısa sürede dönüş yaparız."
+      },
+      {
+        "title": "Net sipariş",
+        "text": "Porsiyon ve tutarı başlamadan önce görürsünüz."
+      },
+      {
+        "title": "Yükümlülük yok",
+        "text": "Sadece sormak için de yazabilirsiniz."
+      }
+    ],
+    "hotline": "Doğrudan hat"
+  },
+  "form": {
+    "eyebrow": "Sipariş",
+    "title": "Sipariş verin",
+    "text": "Ne istediğinizi yazın, kısa sürede size dönelim.",
+    "name": "Ad soyad",
+    "namePlaceholder": "Adınız",
+    "phone": "Telefon",
+    "company": "Adres",
+    "companyPlaceholder": "Teslimat adresi",
+    "service": "Hizmet",
+    "choose": "Hizmet seçin",
+    "details": "Sipariş notu",
+    "detailsPlaceholder": "Çiğ köfte, meze ve içecek seçiminizi yazın...",
+    "consent": "Bilgilerimin sipariş hazırlamak için kullanılmasını kabul ediyorum.",
+    "send": "WhatsApp ile gönder",
+    "safe": "Verileriniz güvende",
+    "reply": "Yanıt: WhatsApp'tan",
+    "sent": "Siparişinizle WhatsApp açılıyor...",
+    "heading": "Yeni sipariş"
+  },
+  "blog": {
+    "badge": "Mutfaktan",
+    "title": "Blog",
+    "intro": "Çiğ köfte, meze ve sipariş üzerine yazılar.",
+    "readMore": "Devamını okuyun",
+    "all": "Tüm yazılar",
+    "related": "İlgili yazılar",
+    "summary": "Özet",
+    "consultTitle": "Bu konuda sorunuz mu var?",
+    "consultText": "Bize mesaj gönderin, memnuniyetle yardımcı olalım.",
+    "consultAction": "Bize sorun"
+  },
+  "faq": {
+    "badge": "SSS",
+    "title": "Sıkça sorulan sorular",
+    "text": "En sık duyduğumuz sorulara kısa yanıtlar.",
+    "items": [
+      {
+        "question": "Nasıl sipariş veriyorum?",
+        "answer": "WhatsApp'tan yazın ya da TrendyolGo ve Yemeksepeti'nden sipariş verin."
+      },
+      {
+        "question": "Paket servis var mı?",
+        "answer": "Evet. Paket servisimiz şimdilik TrendyolGo ve Yemeksepeti'nde aktif."
+      },
+      {
+        "question": "Çiğ köfte taze mi?",
+        "answer": "Siparişiniz taze hazırlanır; baharat dengesine özen gösteriyoruz."
+      },
+      {
+        "question": "Yanına ne alabilirim?",
+        "answer": "Meze çeşitleri ve içeceklerle birlikte sipariş verebilirsiniz."
+      }
+    ],
+    "bannerTitle": "Sorunuz mu var?",
+    "bannerAccent": "Bize yazın.",
+    "bannerText": "WhatsApp'tan mesaj gönderin, hızlıca yanıtlayalım."
+  },
+  "ctaBanner": {
+    "eyebrow": "Birlikte çalışalım",
+    "title": "Sipariş vermeye hazır mısınız?",
+    "text": "Ne istediğinizi yazın, hemen hazırlayalım.",
+    "help": "Yardım mı lazım?",
+    "call": "Bizi arayın"
+  },
+  "about": {
+    "eyebrow": "Kurumsal",
+    "title": "Hakkımızda",
+    "intro": "Kadıköy'de çiğ köfte, meze ve içecek sunan küçük bir yeriz.",
+    "kicker": "Yaklaşımımız",
+    "heading": "Taze malzeme, özenli hazırlık.",
+    "body": "Çiğ köftemizi taze hazırlar, baharat dengesini önemseriz. Yanında meze çeşitleri ve içecek sunar, paket servisle adresinize ulaştırırız.",
+    "principles": "İlkelerimiz",
+    "principlesTitle": "Her siparişte aynı dört temel ilke.",
+    "band": "Doğru seçimi birlikte yapalım."
+  },
+  "service": {
+    "scope": "Neler dahil",
+    "title": "Siparişinizi doğru verin.",
+    "body": "Her sipariş porsiyon ve içerik seçimiyle başlar. Ardından net bir sipariş özeti çıkarırız; böylece tam olarak ne alacağınızı bilirsiniz.",
+    "checks": "Neleri konuşuyoruz",
+    "checkItems": [
+      "Kaç porsiyon çiğ köfte",
+      "Hangi meze çeşitleri",
+      "İçecek seçimi",
+      "Teslimat adresi ve paket servis"
+    ],
+    "stepsTitle": "Dört adım, sürpriz yok.",
+    "sideKicker": "Sipariş desteği",
+    "sideTitle": "Size uygun seçimi birlikte bulalım.",
+    "sideText": "Birkaç ayrıntı paylaşın, size bir sipariş özetiyle dönelim.",
+    "sideList": [
+      "WhatsApp'tan sipariş",
+      "Net porsiyon ve tutar",
+      "Tek muhatap"
+    ],
+    "related": "Diğer hizmetler",
+    "relatedTitle": "İlgili hizmetler.",
+    "formTitle": "Sipariş verin:",
+    "formHeading": "Siparişinizi birlikte planlayalım.",
+    "formText": "Porsiyonu, mezeyi ve adresi netleştirir, size sade bir özet göndeririz."
+  },
+  "contact": {
+    "eyebrow": "İletişim ve sipariş",
+    "title": "İletişim",
+    "intro": "Bir sorunuz ya da vermek istediğiniz bir sipariş mi var? Bize yazın, dönüş yapalım.",
+    "kicker": "İletişim",
+    "heading": "Bize mesaj gönderin.",
+    "text": "Ne istediğinizi yazın, sizinle iletişime geçelim.",
+    "office": "Adresimiz",
+    "phoneEmail": "Telefon ve e-posta",
+    "hours": "Çalışma saatleri",
+    "hoursValue": "Sipariş için WhatsApp'tan yazın",
+    "closed": "Paket servis TrendyolGo ve Yemeksepeti'nde",
+    "phone": "Telefon",
+    "email": "E-posta"
+  },
+  "footer": {
+    "tagline": "Kadıköy'de taze çiğ köfte, meze ve içecek; paket servisle kapınızda.",
+    "rights": "Tüm hakları saklıdır.",
+    "contact": "İletişim ve adres",
+    "trust": [
+      "Taze çiğ köfte",
+      "Paket servis",
+      "Meze ve içecek"
+    ]
+  },
+  "notFound": {
+    "title": "Sayfa bulunamadı",
+    "text": "Aradığınız sayfa mevcut değil ya da taşınmış.",
+    "home": "Ana sayfaya dön"
+  }
+}

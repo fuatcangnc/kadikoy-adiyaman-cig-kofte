@@ -1,0 +1,369 @@
+{
+  "nav": {
+    "home": "Home",
+    "company": "Company",
+    "about": "About us",
+    "services": "Menu",
+    "blog": "Blog",
+    "contact": "Contact"
+  },
+  "cta": "Order now",
+  "topbar": "Fresh çiğ köfte in Kadıköy. Delivery through TrendyolGo and Yemeksepeti.",
+  "whatsapp": {
+    "message": "Hello, I would like to order çiğ köfte.",
+    "online": "Online",
+    "help": "Need help?",
+    "ask": "Ask on WhatsApp"
+  },
+  "hero": {
+    "eyebrow": "Çiğ köfte · Meze · Delivery",
+    "title": "Fresh çiğ köfte,",
+    "accent": "made fresh every day",
+    "text": "A small çiğ köfte shop in Osmanağa, Kadıköy. Fresh çiğ köfte, meze and drinks — eat in or delivered to your door.",
+    "primary": "Order on WhatsApp",
+    "rating": "4.9 stars from 66 Google reviews",
+    "panel": "How it works",
+    "status": "Fresh today"
+  },
+  "highlights": [
+    "Made fresh daily",
+    "Eat in or takeaway",
+    "Delivery via TrendyolGo & Yemeksepeti"
+  ],
+  "metrics": [
+    {
+      "value": "4.9",
+      "label": "Google rating"
+    },
+    {
+      "value": "66",
+      "label": "Google reviews"
+    },
+    {
+      "value": "4",
+      "label": "Menu items"
+    }
+  ],
+  "services": {
+    "badge": "Our menu",
+    "title": "What we",
+    "accent": "serve you",
+    "intro": "Çiğ köfte, meze and drinks — plain, fresh and ready to go.",
+    "more": "Learn more",
+    "all": "See the full menu",
+    "help": "Not sure how much to order? Message us and we will help.",
+    "details": "details",
+    "count": "items"
+  },
+  "pillars": {
+    "badge": "Two ways to order",
+    "title": "Eat in with us or",
+    "accent": "order delivery",
+    "text": "Come by the shop in Osmanağa, or order through TrendyolGo and Yemeksepeti.",
+    "view": "View",
+    "items": [
+      {
+        "title": "In the shop",
+        "subtitle": "Eat in or take away",
+        "tag": "Kadıköy",
+        "text": "Stop by Vahapbey Sokak and we prepare your çiğ köfte fresh on the spot.",
+        "list": "What we serve",
+        "bullets": [
+          "Fresh çiğ köfte",
+          "Meze selection",
+          "Cold drinks"
+        ],
+        "action": "See the menu"
+      },
+      {
+        "title": "Delivery",
+        "subtitle": "Straight to your door",
+        "tag": "TrendyolGo & Yemeksepeti",
+        "text": "Our delivery runs through TrendyolGo and Yemeksepeti for now.",
+        "list": "How to order",
+        "bullets": [
+          "Open TrendyolGo",
+          "Open Yemeksepeti",
+          "Or message us on WhatsApp"
+        ],
+        "action": "Order delivery"
+      }
+    ]
+  },
+  "why": {
+    "badge": "Why our customers come back",
+    "title": "Why people choose our çiğ köfte",
+    "text": "Fresh ingredients, balanced spice and friendly service.",
+    "features": [
+      {
+        "title": "Fresh every day",
+        "text": "We prepare çiğ köfte daily, never left standing."
+      },
+      {
+        "title": "Balanced spice",
+        "text": "Spice and seasoning measured so every bite tastes right."
+      },
+      {
+        "title": "Friendly service",
+        "text": "We greet you, help you choose and pack it well."
+      },
+      {
+        "title": "Easy to reach",
+        "text": "Right in Osmanağa, Kadıköy, plus two delivery apps."
+      }
+    ],
+    "stats": [
+      {
+        "value": 4.9,
+        "suffix": "",
+        "label": "Rating",
+        "text": "Average score on Google."
+      },
+      {
+        "value": 66,
+        "suffix": "",
+        "label": "Reviews",
+        "text": "Guests who left feedback on Google."
+      },
+      {
+        "value": 4,
+        "suffix": "",
+        "label": "Menu",
+        "text": "Çiğ köfte, meze, drinks and delivery."
+      },
+      {
+        "value": 2,
+        "suffix": "",
+        "label": "Apps",
+        "text": "TrendyolGo and Yemeksepeti, for now."
+      }
+    ]
+  },
+  "process": {
+    "badge": "How it works",
+    "title": "From your order to your first bite",
+    "text": "Simple steps, no waiting around.",
+    "kicker": "Order by WhatsApp",
+    "center": "Tell us what you would like",
+    "action": "Message us",
+    "steps": [
+      {
+        "title": "Order",
+        "text": "Message us, or open TrendyolGo or Yemeksepeti."
+      },
+      {
+        "title": "We prepare",
+        "text": "Your çiğ köfte is mixed and portioned fresh."
+      },
+      {
+        "title": "Meze & drinks",
+        "text": "Add meze and a cold drink to complete the meal."
+      },
+      {
+        "title": "Enjoy",
+        "text": "Eat in the shop, take it away or wait for delivery."
+      }
+    ]
+  },
+  "testimonials": {
+    "badge": "Customer reviews",
+    "title": "Real reviews.",
+    "accent": "Real flavour.",
+    "text": "What guests say about our çiğ köfte on Google.",
+    "see": "See reviews on Google",
+    "source": "Google review",
+    "verified": "Verified",
+    "prev": "Previous review",
+    "next": "Next review",
+    "items": [
+      {
+        "name": "Google user",
+        "role": "4 ay önce",
+        "project": "Çiğ Köfteci",
+        "quote": "Lezzeti gerçekten çok güzel, çiğköftesi taze ve baharat dengesi yerinde. Enes bey çok ilgili ve güler yüzlü. Kesinlikle tekrar geleceğim, tavsiye ederim.",
+        "rating": 5
+      },
+      {
+        "name": "Google user",
+        "role": "2 ay önce",
+        "project": "Çiğ Köfteci",
+        "quote": "Çiğ köftesi çok taze ve çok lezzetli gönül rahatlığıyla burayı önerebilirim\nEmeğiniz için teşekkür ederim iyi çalışmalar dilerim",
+        "rating": 5
+      },
+      {
+        "name": "Google user",
+        "role": "5 ay önce",
+        "project": "Çiğ Köfteci",
+        "quote": "Çiğ köfte gurmesi biri olarak bayıldimm herkese kesinlikle tavsiye ederim çok lezzetliydi elinize sağlık kolay gelsin",
+        "rating": 5
+      },
+      {
+        "name": "Google user",
+        "role": "3 ay önce",
+        "project": "Çiğ Köfteci",
+        "quote": "Çiğ köftesi baya lezzetli kesinlikle herkese tavsiye ederim teşekkür ederim iyi çalışmalar",
+        "rating": 5
+      },
+      {
+        "name": "Google user",
+        "role": "4 ay önce",
+        "project": "Çiğ Köfteci",
+        "quote": "arkadasımla yemeğe gittik tesadüfen yakınlarda olduğu için buraya girdik ilk oldu ama son olmıcak gerçekten güzeldi denenir",
+        "rating": 5
+      }
+    ]
+  },
+  "quote": {
+    "badge": "Quick order",
+    "title": "Tell us what you would like",
+    "accent": "and we will prepare it",
+    "text": "Send your order and we will confirm it right away.",
+    "steps": [
+      {
+        "title": "Quick reply",
+        "text": "We read your message and answer as soon as we can."
+      },
+      {
+        "title": "Clear order",
+        "text": "You see exactly what you get before we start."
+      },
+      {
+        "title": "No obligation",
+        "text": "Asking a question costs nothing."
+      }
+    ],
+    "hotline": "Direct line"
+  },
+  "form": {
+    "eyebrow": "Order",
+    "title": "Send your order",
+    "text": "Tell us what you would like and we will get back to you shortly.",
+    "name": "Full name",
+    "namePlaceholder": "Your name",
+    "phone": "Phone",
+    "company": "Address",
+    "companyPlaceholder": "Delivery address",
+    "service": "Order",
+    "choose": "Choose an item",
+    "details": "Your order",
+    "detailsPlaceholder": "Tell us what you would like: çiğ köfte, meze, drinks...",
+    "consent": "I agree that my details are used to prepare my order.",
+    "send": "Send via WhatsApp",
+    "safe": "Your data is safe",
+    "reply": "Average reply: same day",
+    "sent": "Opening WhatsApp with your order...",
+    "heading": "New order"
+  },
+  "blog": {
+    "badge": "News",
+    "title": "Blog",
+    "intro": "News, tips and stories from our shop.",
+    "readMore": "Read more",
+    "all": "All articles",
+    "related": "Related articles",
+    "summary": "Summary",
+    "consultTitle": "Have a question about this topic?",
+    "consultText": "Send us a message and we will be happy to help.",
+    "consultAction": "Ask us"
+  },
+  "faq": {
+    "badge": "FAQ",
+    "title": "Frequently asked questions",
+    "text": "Quick answers to the questions we hear most.",
+    "items": [
+      {
+        "question": "How do I order?",
+        "answer": "Message us on WhatsApp, or order through TrendyolGo and Yemeksepeti. You can also come by the shop."
+      },
+      {
+        "question": "Do you deliver?",
+        "answer": "Yes. For now delivery runs only through TrendyolGo and Yemeksepeti."
+      },
+      {
+        "question": "Where are you?",
+        "answer": "Osmanağa, Vahapbey Sok. No:27 D:B, 34744 Kadıköy/İstanbul. Come in, eat in or take away."
+      },
+      {
+        "question": "How fresh is the çiğ köfte?",
+        "answer": "We prepare it fresh in the shop every day, in small batches."
+      }
+    ],
+    "bannerTitle": "Have a question?",
+    "bannerAccent": "Message us.",
+    "bannerText": "Send us a message and we will answer quickly."
+  },
+  "ctaBanner": {
+    "eyebrow": "Come by or order in",
+    "title": "Hungry for fresh çiğ köfte?",
+    "text": "Tell us what you would like and we will prepare it fresh for you.",
+    "help": "Need help?",
+    "call": "Call us"
+  },
+  "about": {
+    "eyebrow": "Company",
+    "title": "About us",
+    "intro": "We are a small çiğ köfte shop in Osmanağa, Kadıköy, putting freshness first.",
+    "kicker": "Our approach",
+    "heading": "Fresh çiğ köfte, made in small batches.",
+    "body": "We mix and portion our çiğ köfte in the shop every day. Serve meze and cold drinks alongside, so you can eat in, take away or order delivery through TrendyolGo and Yemeksepeti.",
+    "principles": "Our principles",
+    "principlesTitle": "The same care in every order.",
+    "band": "Let's get your order ready together."
+  },
+  "service": {
+    "scope": "What's included",
+    "title": "Order it fresh, right from the start.",
+    "body": "Every order starts with your choice of çiğ köfte, meze and drinks. We confirm what you get, so there are no surprises when it arrives.",
+    "checks": "What we look at",
+    "checkItems": [
+      "How much çiğ köfte you need",
+      "Which meze you would like",
+      "Cold drinks to go with it",
+      "Eat in, takeaway or delivery"
+    ],
+    "stepsTitle": "Four steps, no surprises.",
+    "sideKicker": "Help with your order",
+    "sideTitle": "Let's find the right order for you.",
+    "sideText": "Share a few details and we will get back to you with a suggestion.",
+    "sideList": [
+      "Fresh çiğ köfte daily",
+      "Clear order, no surprises",
+      "One contact person"
+    ],
+    "related": "More from the menu",
+    "relatedTitle": "More from the menu.",
+    "formTitle": "Order now:",
+    "formHeading": "Let's prepare your order together.",
+    "formText": "Tell us what you would like and how you want it, then we get it ready."
+  },
+  "contact": {
+    "eyebrow": "Contact & order",
+    "title": "Contact",
+    "intro": "Have a question or want to order? Write to us and we will reply as soon as we can.",
+    "kicker": "Contact",
+    "heading": "Send us a message.",
+    "text": "Tell us what you would like and we will get back to you.",
+    "office": "Our shop",
+    "phoneEmail": "Phone & email",
+    "hours": "Opening hours",
+    "hoursValue": "Open 7 days a week",
+    "closed": "Delivery via TrendyolGo & Yemeksepeti",
+    "phone": "Phone",
+    "email": "Email"
+  },
+  "footer": {
+    "tagline": "Fresh çiğ köfte, meze and drinks in Osmanağa, Kadıköy.",
+    "rights": "All rights reserved.",
+    "contact": "Contact & shop",
+    "trust": [
+      "Fresh daily",
+      "Eat in or takeaway",
+      "Delivery via two apps"
+    ]
+  },
+  "notFound": {
+    "title": "Page not found",
+    "text": "The page you are looking for does not exist or has moved.",
+    "home": "Back to home"
+  }
+}

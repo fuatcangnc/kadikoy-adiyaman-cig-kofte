@@ -1,0 +1,31 @@
+---
+/**
+ * Comments by Gitupcms (self-hosted at https://app.gitupcms.com). Put <GitupcmsComments /> where the comments go.
+ * Each page gets its own thread, keyed by its path; pass `slug` to share or rename one.
+ */
+interface Props {
+  slug?: string;
+  /** Tailwind classes for the wrapper, e.g. <GitupcmsComments class="max-w-5xl" />. */
+  class?: string;
+}
+const { slug = Astro.url.pathname.replace(/\/+$/, "") || "/", class: className } = Astro.props;
+---
+
+<section class:list={["gitupcms-comments", className]}>
+  <div data-gitupcms-comments data-site-key="rii4aBPOux9XIPoS" data-slug={slug}></div>
+</section>
+<script is:inline async src="https://app.gitupcms.com/comments/embed.js"></script>
+
+<style>
+  /* A readable column. It sits in the base layer, so your Tailwind classes win: <GitupcmsComments class="max-w-5xl" />. */
+  @layer base {
+    .gitupcms-comments {
+      box-sizing: border-box;
+      width: 100%;
+      max-width: 48rem;
+      margin-inline: auto;
+      padding: 3rem 1rem;
+      --gitupcms-comments-width: none;
+    }
+  }
+</style>
