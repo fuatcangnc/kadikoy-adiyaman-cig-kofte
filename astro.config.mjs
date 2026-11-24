@@ -48,6 +48,6 @@ export default defineConfig({
   ],
   vite: { plugins: [tailwindcss()] },
   redirects: {
-    "/t1": "/t2",
+    "/ext": "https://example.com/x",
   },
 });
