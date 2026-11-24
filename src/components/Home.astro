@@ -9,6 +9,7 @@ import { Carousel, CarouselSlide } from '@/ui/carousel'
 import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from '@/ui/accordion'
 import SiteImage from '@/components/SiteImage.astro'
 import { href, localized, phoneHref, settings, siteText, whatsappHref } from '@/lib/i18n'
+import CtaBanner from '@/components/CtaBanner.astro'
 
 interface Props {
   locale: string
@@ -245,6 +246,7 @@ const initials = (name: string) => name.split(/\s+/).map((w) => w[0]).join('').s
     </section>
 
     <!-- Why choose us -->
+    <CtaBanner locale={locale} />
     <WhyChooseUs locale={locale} />
 
     <!-- Process -->
