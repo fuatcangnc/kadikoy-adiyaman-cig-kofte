@@ -47,9 +47,4 @@ export default defineConfig({
     icon({ include: { lucide: ["arrow-right", "clock-3", "mail", "map-pin", "phone"], "simple-icons": ["facebook", "instagram", "youtube"] } }),
   ],
   vite: { plugins: [tailwindcss()] },
-  redirects: {
-    "/test-eski-sayfa": { status: 308, destination: "/test-duzenlendi" },
-    "/test-blog/[slug]": { status: 302, destination: "/test-yazilar/[slug]" },
-    "/test-zincir": "/test-duzenlendi",
-  },
 });
