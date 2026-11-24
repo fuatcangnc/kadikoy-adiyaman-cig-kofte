@@ -47,7 +47,4 @@ export default defineConfig({
     icon({ include: { lucide: ["arrow-right", "clock-3", "mail", "map-pin", "phone"], "simple-icons": ["facebook", "instagram", "youtube"] } }),
   ],
   vite: { plugins: [tailwindcss()] },
-  redirects: {
-    "/t1": "/",
-  },
 });
