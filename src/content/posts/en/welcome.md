@@ -1,5 +1,5 @@
 ---
-title: "Ali's \"fresh\" köfte: A & B <deneme>"
+title: "Welcome to our blog"
 description: "Why we write here and what you will find."
 publishedAt: "2026-10-01"
 category: "News"

@@ -1,5 +1,5 @@
 ---
-title: "Ali'nin "taze" köftesi: A & B <deneme>"
+title: "Blogumuza hoş geldiniz"
 description: "Neden yazmaya başladık, burada neler bulacaksınız."
 publishedAt: "2026-10-01"
 category: "Haberler"
